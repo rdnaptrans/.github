@@ -1,6 +1,16 @@
 # RDNAPTRANS
 
-List of software with permission to use the trademark RDNAPTRANS
+Official RDNAPTRANS&trade; GitHub repository of [NSGI](https://www.nsgi.nl/)
+
+## API
+* [Transformation API](https://www.nsgi.nl/geodetische-infrastructuur/coordinatentransformatie) by NSGI, usage examples in [current repository](https://github.com/rdnaptrans/examples)
+
+## Open source code
+* *Recommended* open source code [PROJ.org](https://proj.org)
+* Open source code *by others* in [nsgi-community repository](https://github.com/nsgi-community)
+
+## Other software
+List of all software with permission to use the trademark RDNAPTRANS
 
 | Company                      | Software                                                                                    | Date                 |
 |------------------------------|---------------------------------------------------------------------------------------------|----------------------|
