@@ -3,7 +3,7 @@
 Official RDNAPTRANS&trade; repository of Netherlands Partnership Geodetic Infrastructure [(NSGI)](https://www.nsgi.nl/)
 
 ## API
-* [Transformation API](https://www.nsgi.nl/geodetische-infrastructuur/coordinatentransformatie) by NSGI, usage example in [current repository](https://github.com/rdnaptrans/examples)
+* [Transformation API](https://www.nsgi.nl/coordinatentransformatie-api) by NSGI, usage example in [current repository](https://github.com/rdnaptrans/examples)
 
 ## Open source code
 * *Recommended* open source code [PROJ.org](https://proj.org)
