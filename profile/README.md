@@ -11,7 +11,7 @@ To use the [Transformation API](https://www.nsgi.nl/coordinatentransformatie-api
 Download the [OpenAPI Specification](https://api.transformation.nsgi.nl/v1) for more information
 
 ## Open source code
-* *Recommended* open source code [PROJ.org](https://proj.org), see [RDNAPTRANS](https://www.nsgi.nl/rdnaptrans) documentation for PROJ pipelines
+* *Recommended* open source code [PROJ.org](https://proj.org), see [RDNAPTRANS&trade;](https://www.nsgi.nl/rdnaptrans) documentation for PROJ pipelines
 * Open source code *by others* in [nsgi-community repository](https://github.com/nsgi-community)
 
 ## Other software
