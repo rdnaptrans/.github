@@ -1,12 +1,17 @@
 # RDNAPTRANS
 
-Official RDNAPTRANS&trade; repository of Netherlands Partnership Geodetic Infrastructure [(NSGI)](https://www.nsgi.nl/)
+Official [RDNAPTRANS&trade;](https://www.nsgi.nl/rdnaptrans) repository of Netherlands Partnership Geodetic Infrastructure [(NSGI)](https://www.nsgi.nl/)
 
 ## API
-* [Transformation API](https://www.nsgi.nl/coordinatentransformatie-api) by NSGI, usage examples in [current repository](https://github.com/rdnaptrans/examples)
+To use the [Transformation API](https://www.nsgi.nl/coordinatentransformatie-api), you need to [request an personal API Key](https://formulieren.kadaster.nl/aanvragen-coordinatentransformatie-api) (in Dutch)
+
+* Calling Transformation API from [command line with cURL examples](https://github.com/rdnaptrans/examples/blob/main/example_transformation_api_curl.md)
+* Calling Transformation API from [Python examples](https://github.com/rdnaptrans/examples/blob/main/example_transformation_api_python.ipynb)
+
+Download the [OpenAPI Specification](https://api.transformation.nsgi.nl/v1) for more information
 
 ## Open source code
-* *Recommended* open source code [PROJ.org](https://proj.org), usage example in [current repository](https://github.com/rdnaptrans/examples)
+* *Recommended* open source code [PROJ.org](https://proj.org), see [RDNAPTRANS](https://www.nsgi.nl/rdnaptrans) documentation for PROJ pipelines
 * Open source code *by others* in [nsgi-community repository](https://github.com/nsgi-community)
 
 ## Other software
